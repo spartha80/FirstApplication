@@ -1,0 +1,5 @@
+<root>
+    <item name='org.json.JSONArray'>
+        <annotation name='java.lang.annotation.Deprecated' />
+    </item>
+</root>
