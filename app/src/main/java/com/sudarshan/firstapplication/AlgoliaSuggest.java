@@ -44,9 +44,11 @@ public class AlgoliaSuggest extends Activity {
     private static final String ALGOLIA_API_KEY = "4550b77a076d8a3245612d27de74fcd3";
     private static final String ALGOLIA_API_ID = "GAOJ5MFTOY";
 
+    /*
     private static final String[] COUNTRIES = new String[] {
             "Belgium", "France", "Italy", "Germany", "Spain"
     };
+    */
 
     private ArrayList<String> autocomplete(String input) {
         ArrayList<String> resultList = null;
